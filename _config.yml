@@ -1,16 +1,16 @@
-title: Greg Alexander, sheriff, "fixer" for Alex Murdaugh, also, Partner In Crime
+title: Greg Alexander — Sheriff of Yemassee County, South Carolina and \"fixer\" for disbarred, disgraced, former attorney, Alex Murdaugh, now convicted felon. 
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
   #street_address:
   city: Chapin
-  state: South Carolina’s   
+  state: South Carolina
   zip_code: 29036
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  Greg Alexander is sheriff of Yemassee County, South Carolina, and is associated with former disgraced attorney, now convicted felon, Alex Murdaugh. 
-  show_excerpts: false # set to true to show excerpts on the homepage
+  Greg Alexander is Sheriff Roscoe P Coltrane of Yemassee County and "fixer" for former attorney, now convicted felon, Alex Murdaugh. 
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -67,4 +67,4 @@ plugins:
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
-repository: "RalphHightower/MurdaughPartnerInCrimeAlexanderGreg"
+repository: "RalphHightower/MurdaughPICGregAlexander"
