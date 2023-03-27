@@ -25,6 +25,7 @@
 |One thing is clear, though: Alexander stayed very close to the Smith family. How close? Multiple sources familiar with the situation say the police chief fathered a child a few years ago with 26-year-old Stephanie Joyner, Stephen Smith’s twin sister – a family secret that has reportedly surfaced as the probe of Smith’s death approaches a point of critical mass. Alexander has consistently pushed back at allegations that he is a “fixer” for the Murdaughs.|
 | *“I’m not a cat,”* Alexander said during a famous March 11, 2022 Facebook video. *“I don’t cover up no doo-doo.”* |
 |Is that true? We shall see … but Alexander’s proximity to so many of the key players in this saga makes him an ongoing focal point of multiple Murdaugh-related inquiries.|
+| **March 15, 2023** |
 | **[South Carolina Grand Jury Zeroing In On Greg Alexander](https://www.fitsnews.com/2023/03/15/south-carolina-grand-jury-zeroing-in-on-greg-alexander/)** |
 |Alleged family “fixer” the focus of new investigation?|
 |Yemassee, South Carolina police chief Greg Alexander – a longtime friend of convicted killer Alex Murdaugh and an alleged “fixer” for his once-powerful family – is among the individuals reportedly facing scrutiny from a statewide grand jury in Columbia, S.C.|
