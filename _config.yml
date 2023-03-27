@@ -4,7 +4,8 @@ author:
   email: ralph.hightower@gmail.com
   #street_address:
   city: Chapin
-  state: South Carolina’s   zip_code: 29036
+  state: South Carolina’s   
+  zip_code: 29036
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
